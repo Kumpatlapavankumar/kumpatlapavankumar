@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/IndelibleFlawedAfricangroundhornbill-size_restricted.gif">
 
 # 💫 About Me:
-🌱 I’m currently learning C++,DSA,java<br><br>🤝 I’m looking for help with Hari mano vikasakendra(NGO)<br><br>📫 How to reach me kumpatlapavankumar@gmail.com
+🌱 I’m currently learning DSA,java,DAA,Data Visualization<br><br>🤝 I’m looking for help with Hari mano vikasakendra(NGO)<br><br>📫 How to reach me kumpatlapavankumar@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumpatlapavankumar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@pavan_kumar9030) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kumpatlapavankumar9972) 
