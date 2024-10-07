@@ -1,3 +1,4 @@
+<img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/360/36000.gif">
 <h1 align="center">Hi 👋, I'm kumpatlapavankumar</h1>
 <h3 align="center">A passionate Data science from India</h3>
 
