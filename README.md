@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Hari mano vikasakendra(NGO)**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-pavankumar.netlify.app/](https://portfolio-website-pavankumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://visionary-starlight-6a52fd.netlify.app/](https://visionary-starlight-6a52fd.netlify.app/)
 
 - 💬 Ask me about **Java,DataStructures,DesignAnalysisandAlgorithms,DataVisualization,Tableau,Mysql,DatabaseManagementSystem,C,ExploratoryDataAnalysis,Devops,Probability Statistics,Analytical Skills,EDA Project,Competitive Programming,Computer Networks**
 
